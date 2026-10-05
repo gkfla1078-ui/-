@@ -1,0 +1,8 @@
+{
+  "name": "제약·바이오 EM 배지 자동 크롭 & 보고서 생성 시스템",
+  "description": "사진 파일 업로드 및 화면 캡쳐본(클립보드 Ctrl+V)을 지원하며, Gemini AI가 구역명과 시험항목을 감지하여 자동 크롭하고 Word Appendix 보고서를 생성합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
